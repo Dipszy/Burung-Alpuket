@@ -1,0 +1,15 @@
+.h1 {
+  color: white;
+  text-align: center;
+}
+
+#header {
+  background-color: blueviolet;
+  height: 125px;
+  padding: 5px;
+}
+
+.menu li {
+  display: inline;
+  margin: 40px;
+}
